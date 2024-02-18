@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Carpool</string>
+    <string-array name="VehicleType">
+        <item>Car</item>
+        <item>Bike</item>
+        <item>Scooter</item>
+        <item>Train</item>
+        <item>EV</item>
+    </string-array>
+
+    <string-array name="UserType">
+        <item>Student</item>
+        <item>Teacher</item>
+        <item>Parents</item>
+        <item>Alumni</item>
+    </string-array>
+</resources>
